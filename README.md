@@ -1,7 +1,9 @@
-## Fuck-RollingSky-Pay是什么
+# Fuck RollingSky Pay
+
+## Fuck RollingSky Pay是什么
 一个xposed模块喔！
 
-## Fuck-RollingSky-Pay有哪些功能？
+## Fuck RollingSky Pay有哪些功能？
 ### 此Xposed模块可以让“滚动的天空”免内购！
 
 * TapTap版
@@ -9,7 +11,7 @@
 * 华为，小米，VIVO版
 弹出确认支付框返回即可获取奖励！
 
-### 此外，Fuck-RollingSky-Pay还支持
+### 此外，Fuck RollingSky Pay还支持
 
 * 跳舞的线
 * 饥饿鲨进化
