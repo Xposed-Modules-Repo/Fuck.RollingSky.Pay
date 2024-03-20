@@ -1,4 +1,5 @@
 # Fuck RollingSky Pay
+滚动的天空等游戏的免内购模块
 
 ## Fuck RollingSky Pay是什么
 一个xposed模块喔！
